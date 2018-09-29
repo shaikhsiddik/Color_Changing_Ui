@@ -1,0 +1,45 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Re_Feedback</string>
+    <string name="SignIn">SignIn</string>
+    <string name="DroidSansBold">DroidSans-Bold.ttf</string>
+    <string name="contact_no">Contact No</string>
+    <string name="OK">OK</string>
+    <string name="Cancel" tools:ignore="ButtonCase">cancel</string>
+    <string name="brand_name" />
+    <string name="brand_description" />
+    <string name="customer_review_question" />
+    <string name="positive_feedback_text" />
+    <string name="ambiguity_feedback_text" />
+    <string name="negative_feedback_text" />
+    <string name="ldp_day" tools:override="true">D</string>
+    <string name="ldp_month" tools:override="true">M</string>
+    <string name="ldp_year" tools:override="true">Y</string>
+
+    <string name="last_name">Last Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="profession">Profession</string>
+
+    <string name="food_quality">Food Quality</string>
+    <string name="food_service">Food Service</string>
+    <string name="value_for_money">Value For Money</string>
+    <string name="comment">Comment</string>
+    <string name="first_name">First Name</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="anniversary_date">Anniversary Date</string>
+    <string name="favourite_dish">Favourite Dish</string>
+
+    <string-array name="city_arrays">
+        <item>Aurangabad</item>
+        <item>Other</item>
+    </string-array>
+
+
+
+    <string-array name="feed_relation">
+        <item>Select Your Options</item>
+        <item>Mother</item>
+        <item>Father</item>
+        <item>Friend</item>
+    </string-array>
+
+</resources>

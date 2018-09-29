@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="animated_expandable_edit_text_expanded_height">35dp</dimen>
+    <dimen name="lazy_date_picker_width_case" tools:override="true">12dp</dimen>
+    <dimen name="lazy_date_picker_height_focus" tools:override="true">2.5dp</dimen>
+    <dimen name="lazy_date_picker_width_margin" tools:override="true">1dp</dimen>
+    <dimen name="lazy_date_picker_width_space" tools:override="true">6dp</dimen>
+</resources>
